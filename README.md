@@ -1,4 +1,4 @@
-<img src="https://www.freepik.com/free-vector/science-project-twitch-banner_74714152.htm#query=github%20cover&position=0&from_view=keyword&track=ais&uuid=4c4383ea-0872-4b70-a9da-7705cef3ce9f" alt="Banner" style="width:100%;">
+<img src="https://github.com/SOHAGBANDYOPADHYAY/SOHAGBANDYOPADHYAY/blob/main/Tech%20Consultant%20business%20Banner.png" alt="Banner" style="width:100%;">
 
 <h1 align="center">Hi 👋, I'm Sohag Bandyopadhyay</h1>
 <h3 align="center">A passionate web developer</h3>
